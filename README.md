@@ -1,5 +1,7 @@
-# data_analysis_with_pandas
+# Data Analysis With Pandas
 Exploratory data analysis of Netflix movies and tv shows
+
+### Data Source: (https://www.kaggle.com/shivamb/netflix-shows)
 ####  In this notebook I am going to try explore the data I have and going to answer questions like:
 
  - What are the percentage of different content types on Netflix
