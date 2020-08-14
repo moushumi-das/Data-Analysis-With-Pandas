@@ -11,6 +11,6 @@ Exploratory data analysis of Netflix movies and tv shows
  - What are the oldest TV Shows  and Movies on Netflix.
  - Which director made how many movies in each release_year
  
-![](rating.png)
+![](./Netflix/rating.png)
 ![](movie_duration.png)
 ![](top_countries.png)
